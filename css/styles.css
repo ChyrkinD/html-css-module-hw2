@@ -17,7 +17,6 @@
 body {
     font-family: var(--main-font);
     font-size: 16px;   
-    font-style: normal;
     color: var(--main-color);
     background-color: var(--main-bg-color);
 }
@@ -81,7 +80,6 @@ button {
 
 .header-menu-link {
     color: currentColor;
-    font-style: inherit;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.32px;
@@ -101,8 +99,7 @@ button {
 
 .contact-info-link {
     color: currentColor;
-    font-style: inherit;
-    font-weight: 400;
+    font-style: normal;
     line-height: 1.5;
     letter-spacing: 0.32px;
 }
@@ -122,14 +119,12 @@ button {
     text-align: center;
     width: 496px;
     font-size: 56px;
-    font-style: inherit;
     font-weight: 700;
     line-height: 1.071;
     letter-spacing: 1.12px;
 }
 
 .hero-btn {
-    font-style: inherit;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.64px;
@@ -162,7 +157,6 @@ button {
 }
 
 .about-us-text {
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;
 }
@@ -203,7 +197,6 @@ button {
 
 .our-team-text {
     text-align: center;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;
 }
@@ -236,7 +229,6 @@ button {
 }
 
 .portfolio-text {
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;
 }
@@ -253,7 +245,6 @@ button {
 
 .footer-text {
     color:#F4F4FD;
-    font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.32px;
 }
